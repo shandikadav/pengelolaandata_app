@@ -1,0 +1,32 @@
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\bin\Debug\APLIKASI PENGELOLAAN DATA.exe.config
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\bin\Debug\APLIKASI PENGELOLAAN DATA.exe
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\bin\Debug\APLIKASI PENGELOLAAN DATA.pdb
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\bin\Debug\APLIKASI PENGELOLAAN DATA.xml
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI PENGELOLAAN DATA.vbprojResolveAssemblyReference.cache
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.login.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.Resources.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI PENGELOLAAN DATA.vbproj.GenerateResource.Cache
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI PENGELOLAAN DATA.exe
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI PENGELOLAAN DATA.xml
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI PENGELOLAAN DATA.pdb
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.AdminSet.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.Pimpinan.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.Staff.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.Supplier.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.ManajemenInventarisbarang.resources
+c:\users\m3m\documents\visual studio 2015\Projects\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.ManajemenInventarisPerabotan.resources
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI PENGELOLAAN DATA.vbproj.AssemblyReference.cache
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI PENGELOLAAN DATA.vbproj.SuggestedBindingRedirects.cache
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.AdminSet.resources
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.login.resources
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.ManajemenInventarisbarang.resources
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.ManajemenInventarisPerabotan.resources
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.Resources.resources
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.Pimpinan.resources
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.Staff.resources
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI_PENGELOLAAN_DATA.Supplier.resources
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI PENGELOLAAN DATA.vbproj.GenerateResource.cache
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI PENGELOLAAN DATA.vbproj.CoreCompileInputs.cache
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI PENGELOLAAN DATA.exe
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI PENGELOLAAN DATA.xml
+D:\IT Software\Tugas Project\Tugas IT Software Rabu 5 Februari 2020\APLIKASI PENGELOLAAN DATA\APLIKASI PENGELOLAAN DATA\obj\Debug\APLIKASI PENGELOLAAN DATA.pdb
